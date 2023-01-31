@@ -1,0 +1,6 @@
+Create ssh key: ssh-keygen -o
+Install nginx: sudo apt install nginx
+View file contents: cat <file name> 
+Run npm server: run npm dev
+Install npm packages: npm install
+List of files: ls
